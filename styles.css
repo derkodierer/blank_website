@@ -1,0 +1,11 @@
+/*
+This is an optional style.css file, index.html is using ./css/styles.css
+
+You can use it as an example.
+*/
+
+body {
+    margin: 20px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
